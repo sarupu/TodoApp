@@ -12,6 +12,7 @@ You can access demo [here](https://quite-orange-todo-app.netlify.app).
 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
 - [Axios](https://axios-http.com/docs/intro) for making API calls
 - [React-Query-v3](https://react-query-v3.tanstack.com/) for making API calls better
 
